@@ -43,7 +43,7 @@
 %
 
 \NeedsTeXFormat{LaTeX2e}
-\ProvidesClass{ucletter}
+\ProvidesClass{ucbletter}
 
 \RequirePackage{ifthen}
 \RequirePackage{graphics}
@@ -51,7 +51,8 @@
 \RequirePackage{times}
 
 % Default is short return address
-\newcommand{\ucl@fromaddr}{short}
+%\newcommand{\ucl@fromaddr}{short}
+\newcommand{\ucl@fromaddr}{full}
 
 % Defaults are for the Nuclear Engineering Department at UCB...
 \newcommand{\ucl@univ}{UCB}
@@ -63,8 +64,8 @@
 \newcommand{\ucl@deptphone}{+1 (510) 642-4077}
 \newcommand{\ucl@deptfax}{+1 (510) 643-9685}
 %\newcommand{\ucl@depturl}{http://www.cs.ucsc.edu/}
-\newcommand{\ucl@telephone}{+1 (510) 629-1579}
-\newcommand{\ucl@email}{slaybaugh@berkeley.edu}
+\newcommand{\ucl@telephone}{+1 (518) 229-3929}
+\newcommand{\ucl@email}{krowland@berkeley.edu}
 \newcommand{\ucl@fax}{}
 \newcommand{\dept}[1]{\renewcommand{\ucl@dept}{#1}}
 \newboolean{ucl@firstfooter}
@@ -229,10 +230,10 @@
 \newcommand{\@ucaddress}{
   \begin{minipage}[t]{2.2in}
     \ifthenelse{\equal{\ucl@fromaddr}{full}}{
-      \ifthenelse{\equal{\ucl@dept}{}}{}{\ucl@dept\\}
+%      \ifthenelse{\equal{\ucl@dept}{}}{}{\ucl@dept\\}
       \ucl@school \\
       University of California \\
-      \ifthenelse{\equal{\ucl@univstreet}{}}{}{\ucl@univstreet\\}
+      \ifthenelse{\equal{\ucl@univstreet}{}}{}{3115B Etcheverry Hall\\}
       \ucl@univtown \\
     }
     {}

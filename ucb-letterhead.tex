@@ -1,19 +1,20 @@
 %https://math.berkeley.edu/computing/wiki/index.php/Ucbletter
 \documentclass{ucbletter}
+\usepackage{lipsum}
 \begin{document}
 % home address.
-\address{R.\ N.\ Slaybaugh\\Department of Nuclear Engineering\\4173 Etcheverry Hall\\Berkeley, California 94720-1731}
-\telephone{(510) 629-1579}
-\email{slaybaugh@berkeley.edu}
-%\upperaddress{}
+%\address{R.\ N.\ Slaybaugh\\Department of Nuclear Engineering\\4173 Etcheverry Hall\\Berkeley, California 94720-1731}
+\address{ } % need to have something in the 'address' here
+%             otherwise, closing is flush left (i have no idea why this is)
 % \subject{Donald Duck's Sailor Suit} % used only by the memo option
 %
-\name{Dr.\ R.\ N.\ Slaybaugh}
-\signature{Rachel Slaybaugh}
+%\name{Dr.\ R.\ N.\ Slaybaugh}
+\signature{Kelly Rowland}
 \begin{letter}{}
-\opening{To whom it may concern}
+\opening{To whom it may concern:}
 
-(The body of the letter goes here.  Blank lines start new paragraphs.)
+\lipsum[1-5]
+
 \closing{Thank you,}
 \end{letter}
 \end{document}

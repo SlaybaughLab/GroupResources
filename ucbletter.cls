@@ -57,10 +57,10 @@
 \newcommand{\ucl@univ}{UCB}
 \newcommand{\ucl@campus}{Berkeley}
 \newcommand{\ucl@school}{Department of Nuclear Engineering}
-\newcommand{\ucl@univstreet}{Etcheverry Hall}
-\newcommand{\ucl@univtown}{Berkeley, CA 94720}
+\newcommand{\ucl@univstreet}{4155 Etcheverry Hall, MC 1730}
+\newcommand{\ucl@univtown}{Berkeley, CA 94720-1730}
 \newcommand{\ucl@dept}{Department of Nuclear Engineering}
-\newcommand{\ucl@deptphone}{+1 (510) 629-1579}
+\newcommand{\ucl@deptphone}{+1 (510) 642-4077}
 \newcommand{\ucl@deptfax}{+1 (510) 643-9685}
 %\newcommand{\ucl@depturl}{http://www.cs.ucsc.edu/}
 \newcommand{\ucl@telephone}{+1 (510) 629-1579}

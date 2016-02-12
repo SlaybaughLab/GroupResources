@@ -1,0 +1,24 @@
+- lunch meetings: when and where?
+- expertise base within group: how to share?
+- monthly group hack meetings: when and where?
+- document sharing? iLibrarian? something else?: model, use outline
+- group server?: model, use outline
+- slack? do we want to use that?
+- Group GitHub: how to organize?
+   - individual repos?
+   - collective meeting tracker 
+   - project webpages / repos
+   - group resources
+      - templates: cover letters, journals, posters, tips and tricks
+      - conference proceedings access lists
+      - licenses
+      - reproducibility guidelines (philip stark has some starter materials)
+   - public vs. private? 
+   - student page with links to individual repos
+   - links to paper repos
+   - what else?
+- github pages group template + directions
+- Other ideas?
+
+- work on random broken things 
+

@@ -1,3 +1,4 @@
+**Initial Questions and Issues**
 - lunch meetings: when and where?
 - expertise base within group: how to share?
 - monthly group hack meetings: when and where?
@@ -22,3 +23,43 @@
 
 - work on random broken things 
 
+**Response to Questions and Actionable Items**
+- Actionable Items
+   - Lunch Meetings: 
+      - Kelly will create a doodle poll
+      - Madicken will look into reserving rooms for the lunch meetings at BIDS.
+   - Monthly Group Meetings:
+      - Will be held at the same time as the normal weekly lunch meeting, this meeting will be slightly longer (~2 hours). It will include a 1 slide, lightning talk from everyone giving an update of their work.
+      - People should apply to become a BIDS member so they can come in here for meetings and not have to worry about being a visitor.
+- I, Librarian: YES
+   - Will people indefinitely have access to the group account to get their references?
+   - On features page, says you can export items into your favorite citation manager.
+   - General support for using.
+   - Conference proceedings on own shelves.
+- Slack: NO, unless group grows and larger collaborations happen
+   - People seems fine with email.
+   - Not sure of the advantages over email.
+- Shared Google Calendar:
+  - Setting up a shared google calendar where everyone's deadlines and events are in one place.
+  - We tested and you can make certain events private. ex: for a reference deadline or something only Rachel and the person would see deadline.
+- Group Github:
+  - There will be individuals pages which will link back to personal user githubs.
+     - What software/codes I know how to work with.
+     - Past work.
+  - Personal Travel information, one stop shop.- Madicken
+  - Reproducibility:
+     - Rachel should put resources that she wants us to use on this
+  - General Resources:
+     - Savio- Kelly
+     - Software carpentry- Madicken
+     - LaTeX resources- Richard
+     - Codes/Software- James
+       - Primers, where codes are installed/ available to run
+ - Templates:
+     - LaTeX - Richard
+       - posters, conference papers, 
+     - Docs- Madicken
+     - Forms, Paperwork- Madicken
+- Other Ideas:
+  - Prospective Student Page
+     - Courses we liked/found helpful, resources, money 

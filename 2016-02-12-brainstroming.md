@@ -43,9 +43,12 @@
   - Setting up a shared google calendar where everyone's deadlines and events are in one place.
   - We tested and you can make certain events private. ex: for a reference deadline or something only Rachel and the person would see deadline.
 - Group Github:
-  - There will be individuals pages which will link back to personal user githubs.
+  - There will be individuals pages which will link back to personal user page
+    (markdown) that is public with additional links to their individual github
+repos as appropriate. The md pages will have
      - What software/codes I know how to work with.
      - Past work.
+     - anything else they'd like to share with the group about themselves.
   - Personal Travel information, one stop shop.- Madicken
   - Reproducibility:
      - Rachel should put resources that she wants us to use on this
@@ -63,3 +66,6 @@
 - Other Ideas:
   - Prospective Student Page
      - Courses we liked/found helpful, resources, money 
+  - list access and use information for neutronics website (asap) [rachel]
+  - gh-pages template people can choose to use and will go with site repos for
+    consistency [rachel]

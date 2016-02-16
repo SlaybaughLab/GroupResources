@@ -6,7 +6,7 @@ A common place to compile resources of use to the research group
 Conference proceedings the group has copies of (and who has said copies):
 
 
-* 2nd Conf, on Comp. Heat and Mass Transfer 2001 (RV)
+* 2nd Conf. on Comp. Heat and Mass Transfer 2001 (RV)
 * XXVI CNMAC 2003 (RV)
 * XXV CILAMCE 2004 (RV)
 * PHYSOR 2012 (KR)
@@ -39,18 +39,20 @@ This is a list of LaTeX resources. For templates, see the Templates section.
 
 All editors below are open-source and multi-platform. 
 
-* The most popular and user-friendly TeX editor is [TeXmaker](http://www.xm1math.net/texmaker/ "texmaker"), available for all platforms.
-* [TeXstudio](http://texstudio.sourceforge.net/ "texstudio") is another open-source and multi-platform LaTeX editor. It is pretty much an extension of TeXmaker.
-* If you prefer a GUI-based approach to LaTeX, then [TeXworks](https://www.tug.org/texworks/ "texworks") is your best bet. editing and features many of the key advantages found in the previous mentioned tools. TeXworks features a built-in PDF viewer just like in the above mentioned tools, but this tool also possesses an auto-synchronisation feature to it.
+* The most popular and user-friendly TeX editor is [TeXmaker](http://www.xm1math.net/texmaker/ "texmaker").
+* [TeXstudio](http://texstudio.sourceforge.net/ "texstudio") is another good LaTeX editor. It is pretty much an extension of TeXmaker.
+* If you prefer a GUI-based approach to LaTeX, then [TeXworks](https://www.tug.org/texworks/ "texworks") is your best bet. It features a built-in PDF viewer like TeXmaker and TeXstudio, but this tool also possesses an auto-synchronisation feature to it.
 * If you don't want to install anything, then try [ShareLaTeX](https://www.sharelatex.com/ "sharelatex"). Dropbox and GitHub syncing supported, 400+ ready-to-use templates, no installations needed. It also allows direct collaboration for a fee.
 
-###Presentations & Slides
+###Presentations, Slides, Posters
 
-* For slides and presentations, you should _really_ consider the Beamer package (available [here](https://www.ctan.org/pkg/beamer "beamer") from CTAN). A full copy of the beamer userguide is [here (in pdf)](http://texdoc.net/texmf-dist/doc/latex/beamer/doc/beameruserguide.pdf "beamer userguide").
+* For **slides and presentations** you should _really_ consider the Beamer package (available [here](https://www.ctan.org/pkg/beamer "beamer") from CTAN). A full copy of the beamer userguide is [here (in pdf)](http://texdoc.net/texmf-dist/doc/latex/beamer/doc/beameruserguide.pdf "beamer userguide").
 * A good startpoint for Beamer newbies is this [wikibooks entry](https://en.wikibooks.org/wiki/LaTeX/Presentations "wikibooks beamer").
 * The _Research Science Institute_ has a nice Beamer tutorial [here (in pdf)](http://web.mit.edu/rsi/www/pdfs/beamer-tutorial.pdf "beamer tutorial").
 * And [here](https://www.hartwork.org/beamer-theme-matrix/ "beamer themes") you'll find a matrix of Beamer themes to choose from.
 * If you want to be fancy, you can use the [Fancyslides class](http://www.latextemplates.com/template/fancyslides-presentation "fancyslides"), which builds on top of the Beamer class to give it a modern and concise design. 
+* For **posters** that look great and are easy to make, use the [tikzposter package](https://www.ctan.org/pkg/tikzposter "tikzposter"). It uses TikZ for generating posters; several formatting options are available, and spacing and layout of the poster is to a large extent automated.
+* A nice tutorial poster for the tikzposter package can be found [here (in pdf)](https://www.sharelatex.com/templates/53332341910d975953dffdab/v/1/pdf?inline=true&name=Tikzposter%20(extended%20example) "tikzposter example").
 
 ###Other Useful Links
 

@@ -5,30 +5,26 @@ This is a page documenting the upcoming travel for each member of the Slaybaugh 
 ---
 ## Quick Links ##
 
-[Rachel Slaybaugh](#rachelslaybaugh)
+[Rachel Slaybaugh](#rachel-slaybaugh)
 
----
 **Postdocs and Visiting Staff**
 
-* [Richard Vasques](#richardvasques)
+* [Richard Vasques](#richard-vasques)
 
----
 **Graduate Students**
 
-* [James Bevins](#jamesbevins)
-* [Madicken Munk](#madickenmunk)
-* [April Novak](#aprilnovak)
-* [Mario Ortega](#marioortega)
-* [Joshua Rehak](#joshuarehak)
-* [Kelly Rowland](#kellyrowland)
+* [James Bevins](#james-bevins)
+* [Madicken Munk](#madicken-munk)
+* [April Novak](#april-novak)
+* [Mario Ortega](#mario-ortega)
+* [Joshua Rehak](#joshua-rehak)
+* [Kelly Rowland](#kelly-rowland)
 
----
 **Undergraduate Students** 
 
-* [Garrett Baltz](#garrettbaltz)
-* [Josh Howland](#joshhowland)
+* [Garrett Baltz](#garrett-baltz)
+* [Josh Howland](#josh-howland)
 
----
 ---
 #####Rachel Slaybaugh#####
 

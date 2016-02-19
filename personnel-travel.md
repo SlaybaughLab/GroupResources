@@ -86,7 +86,7 @@ This is a page documenting the upcoming travel for each member of the Slaybaugh 
 | Winter 2015  | 12/21/2015  | 12/30/2015  | Baltimore, MD  |   |   | 
 
 
-#####Kelly Rowland##### 
+#####Kelly Rowland#####
 
 | Semester  | Start Date  | End Date | Location | Event | Notes |
 | ----------|:-----------:| :-------:| :-------:| :----:| :----:|

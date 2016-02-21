@@ -30,14 +30,11 @@ This is a page documenting the upcoming travel for each member of the Slaybaugh 
 
 | Semester  | Start Date  | End Date | Location | Event | Notes |
 | ----------|:-----------:| :-------:| :-------:| :----:| :----:|
-| F15	  | 2015.12.11 |	2015.12.11  | 	LBL	 | BASCD	 |  | 
-| W15 break	| 2015.12.21 | 	2015.12.27 | 	PA	 | holiday	 |  | 
-| W15 break| 	2016.01.14| 	2015.01.16 | 	BIDS (on campus) | 	SWC	 |  | 
-| SP16	| 2016.01.26 | 	2016.01.27 | 	DC | 	Panel | 	not sure on return date | 
 | SP16	| 2016.03.02 | 	2016.03.04 | 	Santa Fe  | 	CoDA	 |  | 
+| SP16	| 2016.03.11 | 	weekend    | 	Chicago  | 	workshop	 |  | 
 | SP16	| 2016.03.16 | 	2016.03.17 | 	Los Alamos | 	MPACT	 |  | 
 | SP16	| 2015.03.24 | 	2015.03.24 | 	SF		 |   |   | 
-| SP16	| 2015.03.31 |	2015.04.03 | 	Madison  | 	ANS Student | 	possible | 
+| SP16	| 2015.04.09 |	2015.04.15 | 	Tokyo  | 	JAIF | 	dates tentative | 
 | SP16	| 2016.05.01 |	2016.05.05 | 	Sun Valley, ID | 	PHYSOR | 	not sure on return date | 
 | Su16	| 2016.06.07 |	2016.06.09 | 	Raleigh, NC | 	UITI |  | 	
 | Su16	| 2016.06.11 |	2016.06.16 | 	NoLa | 	ANS  |  	not sure on return date | 

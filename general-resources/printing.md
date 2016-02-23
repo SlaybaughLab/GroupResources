@@ -20,7 +20,7 @@ Additionally, more print quota can be purchased as necessary.
 
 DECF printing rates:
 
-B&W printer = $0.04/page, duplex = 1.5 pages.
+B&W printer = $0.04/page, duplex = 1.5 pages.  
 Color printer = $0.40/page, duplex = 1.5 pages.
 
 ##OCF
@@ -34,9 +34,9 @@ The OCF computing lab and printers are located in 171 MLK in the ASUC Student Un
 
 OCF printing limits (refreshed every semester):
 
-100 pages* per semester
-8 pages per day on weekdays
-16 pages per day on weekends
+100 pages* per semester  
+8 pages per day on weekdays  
+16 pages per day on weekends  
 
 *one page = one printed side of a sheet
 

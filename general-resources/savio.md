@@ -27,3 +27,16 @@ On Savio, jobs are submitted through and handled with SLURM (Simple Linux Utilit
 Example SLURM scripts for Savio: http://research-it.berkeley.edu/services/high-performance-computing/running-your-jobs
 
 General SLURM documentation: http://slurm.schedmd.com/documentation.html
+
+##Getting Help
+
+Using a computing cluster can be difficult. Fortunately, the Savio team can be reached at 
+[brc-hpc-help@lists.berkeley.edu]. When sending this email (and thus creating a "trouble ticket"), please
+include as much relevant information as you can (in order to help the HPC people help you!). This 
+information includes but is not limited to:
+
+*Your SLURM job script
+*Any and all relevant input files/data
+*Any and all relevant output files/data
+*A copy of the error message(s) received
+*Whatever else you think may be relevant to the problem

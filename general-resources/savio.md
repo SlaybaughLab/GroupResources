@@ -31,7 +31,7 @@ General SLURM documentation: http://slurm.schedmd.com/documentation.html
 ##Getting Help
 
 Using a computing cluster can be difficult. Fortunately, the Savio team can be reached at 
-[brc-hpc-help@lists.berkeley.edu]. When sending this email (and thus creating a "trouble ticket"), please
+brc-hpc-help@lists.berkeley.edu. When sending this email (and thus creating a "trouble ticket"), please
 include as much relevant information as you can (in order to help the HPC people help you!). This 
 information includes but is not limited to:
 

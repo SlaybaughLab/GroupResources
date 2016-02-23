@@ -2,6 +2,8 @@
 
 Savio is the name of UC Berkeley's institutional/condo cluster.
 
+Cluster address: `hpc.brc.berkeley.edu`
+
 Webpage here: http://research-it.berkeley.edu/services/high-performance-computing
 
 ##Getting Started 
@@ -19,6 +21,16 @@ the need arise.
 
 Once you've installed Pledge, everything else regarding Savio is fairly similar to using any other 
 computing cluster.
+
+##Transferring Data
+
+Savio has a dedicated data transfer node. When transferring files, log in to `dtn.brc.berkeley.edu` rather
+than the usual login nodes. 
+
+Note that this node is bare-bones in terms of software (since it's meant only for moving data on to and 
+off of Savio), so don't panic if it doesn't work you try to do something like opening a program like you 
+would on a typical login node. Once you've moved your data as needed, log off of the data transfer node
+and log into a usual login node to carry on with your work.
 
 ##SLURM
 

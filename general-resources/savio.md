@@ -28,9 +28,9 @@ Savio has a dedicated data transfer node. When transferring files, log in to `dt
 than the usual login nodes. 
 
 Note that this node is bare-bones in terms of software (since it's meant only for moving data on to and 
-off of Savio), so don't panic if it doesn't work you try to do something like opening a program like you 
-would on a typical login node. Once you've moved your data as needed, log off of the data transfer node
-and log into a usual login node to carry on with your work.
+off of Savio), so don't panic if it doesn't work when you try to do something like opening a program like 
+you would on a typical login node. Once you've moved your data as needed, log off of the data transfer 
+node and log into a usual login node to carry on with your work.
 
 ##SLURM
 

@@ -17,4 +17,6 @@ practices.
 Codes and Software is a place with links for documentation on the software we
 use and develop. 
 
+Information about free on-campus printing can be found [here](./printing.md).
+
 ---

@@ -1,6 +1,6 @@
 # Reproducible and Open Science
 
-Very closely related to reproducibility and openness is [Licensing](./Licences.md)
+Very closely related to reproducibility and openness is [Licensing](./Licenses.md)
 
 > "Open science is a movement that seeks to ensure that the results and the
 > data of scientific research are, and continue to be, available to all."

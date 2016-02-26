@@ -25,7 +25,7 @@
 
 **Response to Questions and Actionable Items**
 - Actionable Items
-   - Lunch Meetings: 
+   - FINISHED Lunch Meetings: 
       - Kelly will create a doodle poll
       - Madicken will look into reserving rooms for the lunch meetings at BIDS.
    - Monthly Group Meetings:
@@ -36,30 +36,30 @@
    - On features page, says you can export items into your favorite citation manager.
    - General support for using.
    - Conference proceedings on own shelves.
-- Slack: NO, unless group grows and larger collaborations happen
+- FINISHED Slack: NO, unless group grows and larger collaborations happen
    - People seems fine with email.
    - Not sure of the advantages over email.
-- Shared Google Calendar:
+- FINISHED Shared Google Calendar:
   - Setting up a shared google calendar where everyone's deadlines and events are in one place.
   - We tested and you can make certain events private. ex: for a reference deadline or something only Rachel and the person would see deadline.
 - Group Github:
-  - There will be individuals pages which will link back to personal user page
+  - TEMPATE UP There will be individuals pages which will link back to personal user page
     (markdown) that is public with additional links to their individual github
 repos as appropriate. The md pages will have
      - What software/codes I know how to work with.
      - Past work.
      - anything else they'd like to share with the group about themselves.
   - Personal Travel information, one stop shop.- Madicken
-  - Reproducibility:
+  - SOLID PROGRESS Reproducibility:
      - Rachel should put resources that she wants us to use on this
   - General Resources:
-     - Savio- Kelly
+     - PAGE UP Savio- Kelly
      - Software carpentry- Madicken
-     - LaTeX resources- Richard
+     - PAGE UP LaTeX resources- Richard
      - Codes/Software- James
        - Primers, where codes are installed/ available to run
- - Templates:
-     - LaTeX - Richard
+ - PAGE UP Templates:
+     - MANY MATERIALS LaTeX - Richard
        - posters, conference papers, 
      - Docs- Madicken
      - Forms, Paperwork- Madicken

@@ -1,6 +1,9 @@
 # GroupResources
 A common place to compile resources of use to the research group
 
+For Spring 2016 we will have weekly group lunches from 12:00 up to as late as
+2:00 on Wednesdays. The last Wednesday of each month will be a group hack
+session, the first of which will be March 30. 
 
 [General Resources](./general-resources/) is a folder that contains general
 resource information on tools and software that the group uses frequently. This
@@ -22,4 +25,11 @@ hackathons.
 papers, theses, posters, and whatever else. It's a menagrie of template types
 and files!  
 
+The group calendar can be found here:
+<iframe
+src="https://calendar.google.com/calendar/embed?src=berkeley.edu_jq3khsgle93m5kv35dt04g3bio%40group.calendar.google.com&ctz=America/Los_Angeles"
+style="border: 0" width="800" height="600" frameborder="0"
+scrolling="no"></iframe>
+
 ---
+

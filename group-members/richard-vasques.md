@@ -5,12 +5,12 @@
 I am a Mathematician, so let's start with the theory... I can help with:
 
 * ODE's and PDE's
-* Stochastic Processes and Probability
+* Probability, Stochastic Processes, Measure Theory 
 * Asymptotic Analysis
-* Integral Equations
+* Integral Equations, Integral Transforms
 * Linear Algebra and Spectral Analysis
 * Real and Complex Analysis
-* Functional Analysis and Measure Theory (a little rusted...)
+* Functional Analysis (a little rusty...)
 * Deterministic and Monte Carlo algorithms
 
 On the practical side, I also can help with:

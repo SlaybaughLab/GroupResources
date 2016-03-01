@@ -17,3 +17,14 @@ This is a list of useful templates.
    - _and many others_
 * [This](https://github.com/ricvasques/TeX-templates/tree/master/NSE-NucScEng "nse") is a template for ANS's **Nuclear Science and Engineering**. It includes some useful packages (e.g. _cleverref_) and a nice layout for subfigures and subsubcaptions. It also includes an [example](https://github.com/ricvasques/TeX-templates/tree/master/NSE-NucScEng/NSE-Example "nse-example") of a full paper.
 
+----------
+
+## Posters
+
+* For **Posters** in general, [here](https://github.com/ricvasques/GroupResources/tree/master/templates/poster "poster-example") is a useful template.
+ 
+----------
+
+## Letterhead
+
+* Eventually you'll want to send a letter that looks official (to an editor, etc.). [Here](https://github.com/ricvasques/GroupResources/tree/master/templates/letterhead "letterhead-example") is a letterhead template.

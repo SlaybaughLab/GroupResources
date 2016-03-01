@@ -2,37 +2,43 @@
 
 ### Quick info: ###
 
-I know this stuff:
+I am a Mathematician, so let's start with the theory... I can help with:
+
+* ODE's and PDE's
+* Stochastic Processes and Probability
+* Asymptotic Analysis
+* Integral Equations
+* Linear Algebra and Spectral Analysis
+* Real and Complex Analysis
+* Functional Analysis and Measure Theory (a little rusted...)
+* Deterministic and Monte Carlo algorithms
+
+On the practical side, I also can help with:
+
 * LaTex
+* Matlab
+* Fortran
+* Python (basics...)
 * git/github (basics...)
 * ...
 
-
-### Various repo links, etc.:###
+### Various links:###
 
 * [My personal website](https://ricvasques.github.io/)
 * [My github page](https://github.com/ricvasques)
-* ...
+* [My CV](https://ricvasques.github.io/assets/cvdocs/CV_Pub.pdf)
+* [My list of publications](https://ricvasques.github.io/assets/cvdocs/publications.pdf)
 
-### Software with which I work: ###
+### Projects on which I've worked/still work: ###
 
-* ...
-
-### Systems which I use: ###
-
-* I primarily develop software on my 2015 MacBook Pro
-* The vast majority of my work is in Python 2.7
-* I run my problems on my macbook or our HPC system, Savio. [Here is the user guide](http://research-it.berkeley.edu/services/high-performance-computing/user-guide)
-
-
-### Tools I like to use: ###
-
-* ...
-
-### Projects on which I've worked: ###
-
-* ...
+* Nonclassical transport applied to Nuclear Engineering (and other things)
+* Hybrid deterministic/Monte Carlo methods
+* Stochastic Neutron Point Kinetics Equations
+* Particle Transport in Random Media
+* Neutron Imaging and Inverse Problems
+* Diffusion Theory
+* LTSn (solving the Sn equations with the Laplace Transform)
 
 ### Other fun things: ###
 
-...
+I also like cats.

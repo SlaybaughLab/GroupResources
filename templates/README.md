@@ -5,7 +5,7 @@ This is a list of useful templates.
 ## Journal Papers
 
 * For **Elsevier** papers you should use [this](https://github.com/ricvasques/TeX-templates/tree/master/Elsevier%20(Annals%2C%20PNE%2C%20etc.) "elsevier") template. Useful for: 
-   - Annals of Nuclear Energy
+   - Annals of Nuclear Energy ([example](https://github.com/ricvasques/ANE/tree/master/DoubleDDM "ane-example") of a full paper)
    - Journal of Nuclear Materials
    - Journal of Quantitative Spectroscopy & Radiative Transfer
    - Nuclear Engineering and Design

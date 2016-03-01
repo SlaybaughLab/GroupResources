@@ -5,7 +5,7 @@ This is a list of useful templates.
 ## Journal Papers
 
 * For **Elsevier** papers you should use [this](https://github.com/ricvasques/TeX-templates/tree/master/Elsevier%20(Annals%2C%20PNE%2C%20etc.) "elsevier") template. Useful for: 
-   - Annals of Nuclear Energy ([example](https://github.com/ricvasques/ANE/tree/master/DoubleDDM "ane-example") of a full paper)
+   - Annals of Nuclear Energy ([example](https://github.com/ricvasques/TeX-templates/tree/master/DoubleDDM-16 "ane-example") of a full paper)
    - Journal of Nuclear Materials
    - Journal of Quantitative Spectroscopy & Radiative Transfer
    - Nuclear Engineering and Design
@@ -23,4 +23,4 @@ This is a list of useful templates.
  
 ## Letterhead
 
-* Eventually you'll want to send a letter that looks official (to an editor, etc.). [Here](https://github.com/ricvasques/GroupResources/tree/master/templates/letterhead "letterhead-example") is a letterhead template.
+* Eventually you'll want to send a letter that looks official (to an editor, etc.). [Here](https://github.com/ricvasques/GroupResources/tree/master/templates/letterhead "letterhead-example") is a letterhead template to use.

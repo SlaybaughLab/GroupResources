@@ -46,7 +46,8 @@ This is a page documenting the upcoming travel for each member of the Slaybaugh 
 
 | Semester  | Start Date  | End Date | Location | Event | Notes |
 | ----------|:-----------:| :-------:| :-------:| :----:| :----:|
-| W 2015  | 2015.12.19  | 2016.01.02  |  | Vacation (In the US)  | 	Available via Email | 
+| SP16	| 2016.04.20 | 	2016.04.24 | 	Dayton, OH | 	Colloquium	 |  | 
+| Su16	| 2016.06.11 |	2016.06.16 | 	NoLa | 	ANS  | dates tentative | 
 
 ## Graduate Students ##
 

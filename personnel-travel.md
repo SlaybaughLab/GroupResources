@@ -88,9 +88,8 @@ This is a page documenting the upcoming travel for each member of the Slaybaugh 
 
 | Semester  | Start Date  | End Date | Location | Event | Notes |
 | ----------|:-----------:| :-------:| :-------:| :----:| :----:|
-| S16	 | 2016.03.15  | 	2016.03.15  | 	San Jose, CA	 |  | 
-| S16	 | 2016.03.24  | 	2016.03.24  | 	Berkeley, CA	 |  | 
-| Su16	 | 2016.08.??  | 	2016.08.??  | 	Upstate NY	 | Available via Email | 
+| Su16	 | 2016.07.10  | 2016.07.15  | 	Boston, MA	 |  Personal Vacation | | 
+| Su16	 | 2016.07.31  | 2016.08.12  | 	St. Charles, IL	 | ATPESC | Available via Email | 
 
 
 ## Undergraduate Students ##

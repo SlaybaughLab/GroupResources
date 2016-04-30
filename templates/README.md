@@ -24,3 +24,6 @@ This is a list of useful templates.
 ## Letterhead
 
 * Eventually you'll want to send a letter that looks official (to an editor, etc.). [Here](https://github.com/ricvasques/GroupResources/tree/master/templates/letterhead "letterhead-example") is a letterhead template to use.
+
+## Slides (Beamer)
+* [This](https://github.com/ricvasques/GroupResources/tree/master/templates/poster "poster-example") is a **Beamer** template for slides and presentation. The TeX file is commented with basic instructions, and you can follow up on the mock presentation. It has a nice cover for the neutronics group and some examples of how to use the **animate** package. 

@@ -4,7 +4,7 @@ This is a list of useful templates.
 
 ## Journal Papers
 
-* For **Elsevier** papers you should use [this template](.../tree/master/templates/journals/Elsevier) "elsevier"). Useful for: 
+* For **Elsevier** papers you should use [this template](journals/Elsevier) "elsevier"). Useful for: 
    - Annals of Nuclear Energy ([example](.../tree/master/templates/journals/ANE-AnnalsNucEne "ane-example") of a full paper)
    - Journal of Nuclear Materials
    - Journal of Quantitative Spectroscopy & Radiative Transfer

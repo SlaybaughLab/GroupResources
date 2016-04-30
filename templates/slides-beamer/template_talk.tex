@@ -1,0 +1,269 @@
+% NEUTRONICS BEAMER TEMPLATE -- START EDITING IN LINE 90
+
+\documentclass[xcolor=x11names, compress]{beamer}
+
+\definecolor{CoolBlack}{rgb}{0.0, 0.18, 0.39}
+\definecolor{byellow}{rgb}{0.55037, 0.38821, 0.06142}
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage{amsthm}
+\usepackage{amssymb}
+\usepackage{amstext}
+\usepackage{bm}
+\usepackage{graphicx}
+\usepackage{epstopdf}
+\usepackage{amsmath}
+\usepackage{setspace}
+\usepackage{tikz}
+\usepackage{Tabbing}
+\usepackage{mathrsfs}
+\usepackage[mathcal]{euscript}
+\usepackage{epsfig}
+\usepackage{changepage}
+\usepackage{xcolor}
+\usepackage{fancyvrb}
+\usepackage{caption}
+\usepackage{color}
+\usepackage[version=3]{mhchem}
+\usepackage{hyperref}
+\usepackage{multirow}
+\usepackage[firstpage]{draftwatermark}
+\usepackage{animate}
+\usepackage{appendixnumberbeamer}
+
+
+
+\usetikzlibrary{decorations.fractals}
+
+\setbeamerfont{title like}{shape=\scshape}
+\setbeamerfont{frametitle}{shape=\scshape}
+
+\setbeamercolor*{lower separation line head}{bg=CoolBlack}
+\setbeamercolor*{normal text}{fg=black,bg=white}
+\setbeamercolor*{alerted text}{fg=dgreen} 
+\setbeamercolor*{example text}{fg=black}
+\setbeamercolor*{structure}{fg=black}
+
+% Margins
+\mode<presentation>
+{
+  \definecolor{berkeleyblue}{HTML}{003262}
+  \definecolor{berkeleygold}{HTML}{FDB515}
+  \usetheme{Boadilla}      % or try Darmstadt, Madrid, Warsaw, Boadilla...
+  %\usecolortheme{dove} % or try albatross, beaver, crane, ...
+  \setbeamercolor{structure}{fg=berkeleyblue,bg=berkeleygold}
+  \setbeamercolor{palette primary}{fg=berkeleyblue,bg=berkeleygold}
+  \setbeamercolor{palette secondary}{fg=berkeleyblue,bg=berkeleygold}
+  \setbeamercolor{palette tertiary}{bg=berkeleyblue,fg=white}
+  \usefonttheme{structurebold}  % or try serif, structurebold, ...
+  \useinnertheme{circles}
+  \setbeamertemplate{caption}[numbered]
+  \usebackgroundtemplate{}
+}
+
+%% Beamer Layout %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\useoutertheme[subsection=false,shadow]{miniframes}
+%\useinnertheme{default}
+%\usefonttheme{serif}
+%\usepackage{palatino}
+%\usepackage{tabu}
+% addition of color
+\definecolor{dgreen}{rgb}{0.,0.6,0.}
+\definecolor{RawSienna}{cmyk}{0,0.72,1,0.45}
+%\usepackage[sorting=none]{biblatex}
+\mode<presentation>
+
+% Links
+\definecolor{links}{HTML}{003262}
+\hypersetup{colorlinks,linkcolor=,urlcolor=links}
+
+% columns
+\renewcommand{\(}{\begin{columns}}
+\renewcommand{\)}{\end{columns}}
+\newcommand{\<}[1]{\begin{column}{#1}}
+\renewcommand{\>}{\end{column}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% START EDITING HERE
+
+%THIS IS THE BEAR WATERMARK IN THE COVER SLIDE; YOU MAY EXCLUDE IT
+\SetWatermarkText{\includegraphics{0calbear.jpg}}
+\SetWatermarkAngle{0}
+\SetWatermarkScale{0.61}
+%%%%%%%%%%%%%%%%%%%%%%
+
+%THIS IS THE INFO AT THE BOTTOM OF YOUR FRAMES
+\title{Deadly Virus and Outbreaks}
+\author{Your Name and Co-Author's}
+\date{October 1$^{st}$, 1998}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{frame}[plain]
+%THIS IS THE TITLE OF THE TALK
+\title{HOW TO IDENTIFY A DEADLY VIRUS AND PREVENT AN OUTBREAK \\ (A Template for Beamer)}
+
+%FEEL FREE TO EDIT THE COVER LAYOUT AS NEEDED
+\author{
+\begin{tabular}{ccc}
+\multirow{6}{65pt}{\includegraphics[height=2.5cm]{0bk.eps}}
+& &
+\multirow{6}{65pt}{\includegraphics[height=2.5cm]{0neutronics.png}} \\
+&{\small\textcolor{blue}{University of California, Berkeley}} &\\
+&{\small\textcolor{blue}{Department of Nuclear Engineering}}&\\
+&{\small \textcolor{blue}{Neutronics Research Group}}&\\
+& &\\
+%YOUR NAME
+&\textbf{Richard Vasques}&\\
+%YOUR CO-AUTHORS
+&\textbf{Jill Valentine$^{1}$}&\\
+%CO-AUTHOR'S INSTITUTION
+\multicolumn{3}{c}{\small\textcolor{blue}{$^{1}$Raccoon City S.T.A.R.S.}}
+\end{tabular}}
+\date{\vspace{-20pt}\\ October 1$^{st}$, 1998 \\ Raccoon City \\ Umbrella Corporation}
+\titlepage
+\end{frame}
+
+% --------------------------------------------------------------
+% THIS IS THE OUTLINE OF YOUR TALK -- YOU MAY SKIP THIS FRAME
+\begin{frame}[fragile]{Outline}
+	\begin{itemize}
+	\item{Identifying the infected}
+	\item{Killing zombies}
+	\begin{itemize}
+	    \item{Locating the target}
+	    \item{Performing headshots}
+	\end{itemize}
+	\item{Treating bites}
+	\item{Final solution}
+	\item{Future work}
+	\end{itemize}
+\end{frame}
+
+
+%----------------------------------------------------------%
+% WHEN YOU START A NEW SECTION, IT WILL SHOW UP AS A CLICKABLE SHORTCUT AT THE TOP OF YOUR FRAMES
+\section{\scshape Identifying Infected}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%THIS IS A FULL FRAME
+\frame[c]{
+	\frametitle{Identifying the infected (basic frame, box, math, etc.)}
+There is one good rule of thumb to identify the infected:
+\vspace{10pt}
+
+%YOU CAN HAVE BLOCKS FOR EMPHASIS
+\begin{block}{Is he or she trying to eat you?}
+If the answer is yes, there is a good chance he or she is infected.
+\end{block}
+\vspace{10pt}
+
+%AND AS MANY EQUATIONS AS YOU WANT
+Here is a nice mathematical model:
+\[
+P_i = 1- \frac{R}{B}
+\]
+where $P_i$ is probability of infection, $R$ is numer of limbs that are rotting or missing, and $B$ is total limbs in the body. 
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{\scshape Killing Zombies}
+
+\frame[c]{
+	\frametitle{Locating the target (using the animate package)}
+This part is easy; they will llikely come to you.		
+\vspace{5pt}
+
+%YOU CAN MAKE ANIMATIONS WITH THE ANIMATE PACKAGE. THIS ONE IS IN A CONSTANT LOOP
+	\begin{center}
+\animategraphics[scale=.5,autoplay,loop]{15}{H}{1}{30}
+\end{center}
+}
+
+\frame[c]{
+	\frametitle{Performing headshots (using the animate package)}
+Aim at the head and shoot. 
+%YOU CAN ALSO USE BUTTONS. THIS IS USEFUL BECAUSE IT ALLOWS YOU TO GO FRAME BY FRAME, SKIP TO THE END, INCREASE/DECREASE SPEED OF ANIMATION, ETC. GOOD FOR PRESENTING RESULTS, PLOTS, ETC.	
+	\begin{center}
+	\animategraphics[scale=.6,controls,loop]{10}{Z}{1}{15}
+\end{center}
+}
+
+\section{\scshape Treating Bites}
+
+\frame[c]{
+	\frametitle{Try not to be bitten (using columns, including pictures)}
+	
+There isn't really a treatment. If you do get bitten...
+\vspace{5pt}
+
+%YOU CAN USE COLUMNS TO MAKE YOUR SLIDE MORE ORGANIZED/APPEALING
+\begin{columns}
+	\column{0.25\linewidth}
+	%YOU MAY INCLUDE GRAPHICS/PICTURES/PLOTS DIRECTLY IN THE TEXT
+	\includegraphics[scale=.25]{zombie.jpg}
+	\column{0.65\linewidth}
+\begin{itemize}
+\item it will hurt.	
+\item like, REALLY hurt.
+\item you might become food.
+\item you may be able to escape, and then...
+\begin{itemize}
+\item ... your vocabulary will be reduced.
+\item ... you will start to smell bad.
+\item ... people will start looking delicious.
+\end{itemize}  
+\end{itemize}
+\end{columns}
+\vspace{5pt}
+
+Summarizing: try not to get bitten.
+}
+
+\section{\scshape Final Solution}
+
+\frame[c]{
+	\frametitle{Final solution (``pause'' command)}
+	%PRESENT YOUR CONCLUSIONS
+Umbrella is deploying a missile.
+\vspace{10pt}
+
+%THE PAUSE COMMAND CREATES A PAUSE IN YOUR SLIDE AUTOMATICALLY, BY DUPLICATING THE SLIDE IN THE PDF FILE 
+\pause
+Seriously. The whole city is going ``boom'' within a few minutes. 
+}
+
+\section{\scshape Future Work}
+\frame[c]{
+	\frametitle{Future work (add future work)}
+%DISCUSS FUTURE WORK
+Sort of irrelevant, seeing we are about to explode. You should keep your questions short.
+}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% ANY SLIDES AFTER THE \appendix COMMAND WILL NOT BE COUNTED IN THE DOCUMENT, BUT WILL STILL BE THERE
+\appendix
+\frame[c]{
+	\frametitle{Appendix Frame}
+
+This is an appendix slide. It's not counted with the regular talk; the frame count restarts. 
+\vspace{10pt}
+
+Check some example beamer talks in my website: \href{https://ricvasques.github.io/pages/talks.html}{\textcolor{blue}{ricvasques.github.io}}.
+\vspace{10pt}
+
+Thanks for playing!
+\vspace{40pt}
+
+\hfill\textcolor{teal}{Richard Vasques, April, 2016}
+}
+
+
+\end{document}

@@ -1,0 +1,315 @@
+\documentclass[12pt]{article}
+
+\usepackage[T1]{fontenc} % standard font encodings
+\usepackage[utf8]{inputenc} % different input encodings
+\usepackage{lmodern} % latin modern fonts
+\usepackage{amsthm} % theorems AMS style
+\usepackage{amssymb} % math symbols
+\usepackage{amstext} % typeset text in math environments
+\usepackage{bm} % bold symbols in math
+\usepackage{graphicx} % enhanced support for graphics
+\usepackage{epstopdf} % con­vert EPS to 'en­cap­su­lated' PDF us­ing ghostscript
+\usepackage[export]{adjustbox} % graph­ics - alike macros for “gen­eral” boxes
+\usepackage{subcaption} % support for subcaptions
+\usepackage[breaklinks=true]{hyperref} % ex­ten­sive sup­port for hy­per­text
+\usepackage{amsmath} % AMS math­e­mat­i­cal fa­cil­i­ties
+\usepackage{setspace} % set space be­tween lines
+\usepackage{morefloats} % in­crease the num­ber of si­mul­ta­ne­ous floats
+\usepackage[capitalize]{cleveref} % in­tel­li­gent cross-ref­er­enc­ing
+
+% Adjusting cleveref package
+\crefalias{subequation}{equation} % subequations counter = equations counter
+\crefformat{pluraleq}{Eqs.~(#2#1#3)} % defining "plural" equations  
+
+% Adjusting page layouts and margins
+\pagestyle{plain}
+\renewcommand{\baselinestretch}{1.0} 
+\setlength{\topmargin}{-0.5in} 
+\setlength{\oddsidemargin}{0.25in} 
+\setlength{\evensidemargin}{0.25in} 
+\setlength{\textwidth}{6.0in} 
+\setlength{\textheight}{9.0in} 
+\setlength{\parskip}{0pt}    
+
+% Labels of tables, sections, equations (NSE-style)
+\renewcommand\thetable{\Roman{table}}
+\renewcommand{\thesection}{\Roman{section}} 
+\renewcommand{\thesubsection}{\thesection.\Alph{subsection}}
+\renewcommand{\theequation}{\arabic{equation}}
+
+% Defining subfigures and subsubcaptions 
+\makeatletter
+\newcounter{parentsubcaption}
+\newenvironment{subsubcaption}
+ {
+ \renewcommand{\thesubfigure}{\roman{subfigure}}
+ \refstepcounter{sub\@captype}%
+  \protected@edef\theparentsubcaption{\@nameuse{thesub\@captype}}%
+  \setcounter{parentsubcaption}{\value{sub\@captype}}%
+  \setcounter{sub\@captype}{0}%
+  \@namedef{thesub\@captype}{\alph{sub\@captype}.\theparentsubcaption}%
+  \ignorespaces
+}{%
+  \setcounter{sub\@captype}{\value{parentsubcaption}}%
+  \ignorespacesafterend
+}
+\makeatother
+
+
+% Adjusting hyperlinks
+\hypersetup{colorlinks=true,
+  pdftitle={This is an awesome paper for NSE},
+  pdfauthor={Richard Vasques and Aliens}
+}
+
+% Newcommands
+\newcommand{\Keywords}[1]{\vspace{12pt}\par\noindent
+{\small{\bf Keywords\/}: #1}}
+
+\begin{document}
+
+\title{This is and Awesome Paper for NSE }
+\author{{\bf R.\ Vasques $^{\dagger,}$}\footnote{Email: \texttt{richard.vasques@fulbrightmail.org}} , {\bf Aliens $^\ddagger$}\\ \\
+\em {\bf $^\dagger$}University of California, Berkeley\\
+\em Department of Nuclear Engineering\\
+\em 4155 Etcheverry Hall, Berkeley, CA 94720-1730\\
+\and \\
+\em {\bf $^\ddagger$} Other Planets \\
+\em In a Galaxy Far Far Away}
+\date{}
+\maketitle
+
+\begin{abstract}
+
+The abstract should be typed on a separate page (complete with the title and names of the authors).  The abstract should not contain Reference citations. The abstract should be brief.
+Authors should provide up to three (3) keywords at the end of the abstract.
+
+\Keywords{awesome, paper, template}
+\end{abstract}
+
+\pagebreak
+
+\doublespacing
+
+\section{Section}
+
+The text of a manuscript is to be organized into sections, with first-level headings (I., II., etc.) 
+
+\subsection{Subsection}
+
+Second-level headings (I.A., I.B., etc.)
+
+\subsubsection{Subsubsection}
+
+Third-level headings (I.A.1, I.A.2, etc.)
+
+\section{Equations}
+
+All mathematical equations should be carefully checked to ensure their correctness. Equation numbers should be Arabic numerals enclosed in parentheses to the right of the equation.
+\begin{align}\label{eq1}
+f(x) = x+1
+\end{align}
+
+\Cref{eq1} is equivalent to
+\begin{subequations}\label[pluraleq]{eq2}
+\begin{align}
+f(x) = x+2-1\\
+f(x) = x+3-2
+\end{align}
+\end{subequations}
+
+and \cref{eq2} are equivalent to
+\begin{align}\label{eq3}
+f(x) = x+(n+1)-n\, .
+\end{align}
+That is, \cref{eq1,eq3} are also the same.
+
+\section{Citations}
+
+Citations in the text to references shall be numerics strictly in order of their first appearance. Authors are referred to any recent issue of Nuclear Science and Engineering for formats. Authors are strongly encouraged to supply the full titles for the respective references. References must be listed in numerical sequence, double spaced, on a separate page.
+
+You should edit {\em references.bib}. This is a book \cite{pom91}. This is a book chapter \cite{gol12}. This is a journal article \cite{vas16}. This is a paper in proceedings \cite{mc15}.
+
+\section{Tables and Figures}
+
+Tables must be numbered in Roman numerals in the order they are called out in the text. A title must accompany each table. Authors are strongly encouraged to submit figures in a high-resolution electronic format. Preferred electronic formats for figures include TIFF (line drawings at least 600 dpi, halftone or grayscale images at least 300 dpi); EPS (with embedded fonts); or PDF (with embedded fonts). Lines and rules in figures should be at least 0.5 points (half-point rules) with an absolute minimum 0.25 points. Figures must be numbered in Arabic numerals in the order they are called out in the text. A descriptive caption must accompany each figure. Please be sure to embed the figures and tables in the text, though you may also additionally include them at the end of the manuscript.
+
+For a table template, check out \cref{tab1}. For a regular figure with subfigures, check out \cref{fig1}. For subfigures with subsubcaptions, see \cref{fig2}.
+
+\pagebreak
+\begin{singlespace}
+\bibliography{references}
+\bibliographystyle{ans}
+\end{singlespace}
+
+\begin{table}[p]
+\centering
+\caption{Ensemble-averaged scalar fluxes for problem set }
+\label{tab1} 
+\begin{tabular}{||c|c||c|c|c||c|c||} \hline \hline
+  & $c$ & $\phi_B$ & $\phi_{AM}$ &$\phi_{NC}$ & $Err_{AM}$ & $ Err_{NC}$\\ \hline\hline
+& 0.0 & 0.1420 & 0.1537 & 0.1421 & 0.0824 & 0.0006 \\
+\cline{2-7}
+& 0.1 & 0.1509 & 0.1628 & 0.1509 & 0.0787 & 0.0002 \\
+\cline{2-7}
+& 0.2 & 0.1614 & 0.1734 & 0.1613 & 0.0747 & -0.0001 \\
+\cline{2-7}
+& 0.3 & 0.1740 & 0.1862 & 0.1738 & 0.0706 & -0.0006 \\
+\cline{2-7}
+& 0.4 & 0.1895 & 0.2021 & 0.1893 & 0.0662 & -0.0012 \\
+\cline{2-7}
+$x=0$ & 0.5 & 0.2094 & 0.2223 & 0.2091 & 0.0616 &  -0.0019 \\
+\cline{2-7}
+& 0.6 & 0.2360 & 0.2493 & 0.2353 & 0.0567 & -0.0026 \\
+\cline{2-7}
+& 0.7 & 0.2735 & 0.2876 & 0.2725 & 0.0515 & -0.0036 \\
+\cline{2-7}
+& 0.8 & 0.3316 & 0.3469 & 0.3300 & 0.0462 & -0.0048 \\
+\cline{2-7}
+& 0.9 & 0.4360 & 0.4541 & 0.4333 & 0.0413 & -0.0063 \\
+\cline{2-7}
+& 0.95 & 0.5287 & 0.5496 & 0.5249 & 0.0397 & -0.0072 \\
+\cline{2-7}
+& 0.99 & 0.6472 & 0.6728 & 0.6421 & 0.0395 & - 0.0079  \\
+\hline\hline
+& 0.0 & 0.0063 & 0.0071 & 0.0061 & 0.1294 & -0.0326 \\
+\cline{2-7}
+& 0.1 & 0.0076 & 0.0085 & 0.0074 & 0.1128 & -0.0313 \\
+\cline{2-7}
+& 0.2 & 0.0093 & 0.0103 & 0.0091 & 0.0972 & -0.0301 \\
+\cline{2-7}
+& 0.3 & 0.0116 & 0.0126 & 0.0113 & 0.0826& -0.0289 \\
+\cline{2-7}
+& 0.4 & 0.0148 & 0.0158 & 0.0143 & 0.0693 & -0.0278 \\
+\cline{2-7}
+$x=10$ & 0.5 & 0.0191 & 0.0202 & 0.0186 & 0.0571 & -0.0267 \\
+\cline{2-7}
+& 0.6 & 0.0255 & 0.0267 & 0.0248 & 0.0464 & -0.0256 \\
+\cline{2-7}
+& 0.7 & 0.0354 & 0.0367 & 0.0345 & 0.0371 & -0.0244 \\
+\cline{2-7}
+& 0.8 & 0.0520 & 0.0535 & 0.0508 & 0.0297 & -0.0231 \\
+\cline{2-7}
+& 0.9 & 0.0841 & 0.0863 & 0.0823 & 0.0251 & -0.0216 \\
+\cline{2-7}
+& 0.95 & 0.1141 & 0.1169 & 0.1117 & 0.0246 & -0.0206 \\
+\cline{2-7}
+& 0.99 & 0.1533 & 0.1573 & 0.1503 & 0.0259 & -0.0196 \\
+\hline\hline
+  \end{tabular}
+\end{table}
+
+
+
+\begin{figure}[p]
+    \centering
+    \begin{subfigure}{0.495\textwidth}
+        \centering
+        \includegraphics[width=\textwidth]{NSE_err_A00.eps}
+        \caption{$c_1 = 0.0$}
+        \label{fig1a}
+    \end{subfigure}
+    \hfill
+    \begin{subfigure}{0.495\textwidth}
+        \centering
+        \includegraphics[width=\textwidth]{NSE_err_A10.eps}
+        \caption{$c_1 = 0.1$}
+        \label{fig1b}
+    \end{subfigure}
+    \\
+    \centering
+    \begin{subfigure}{0.495\textwidth}
+        \centering
+        \includegraphics[width=\textwidth]{NSE_err_A20.eps}
+        \caption{$c_1 = 0.2$}
+        \label{fig1c}
+    \end{subfigure}
+    \hfill
+    \begin{subfigure}{0.495\textwidth}
+        \centering
+        \includegraphics[width=\textwidth]{NSE_err_A30.eps}
+        \caption{$c_1 = 0.3$}
+        \label{fig1d}
+    \end{subfigure}
+    \\
+    \centering
+    \begin{subfigure}{0.495\textwidth}
+        \centering
+        \includegraphics[width=\textwidth]{NSE_err_A40.eps}
+        \caption{$c_1 = 0.4$}
+        \label{fig1e}
+    \end{subfigure}
+    \hfill
+    \begin{subfigure}{0.495\textwidth}
+        \centering
+        \includegraphics[width=\textwidth]{NSE_err_A50.eps}
+        \caption{$c_1 = 0.5$}
+        \label{fig1f}
+    \end{subfigure}
+    \caption{Subfigures}
+    \label{fig1}
+\end{figure}
+
+
+
+\setcounter{subfigure}{0}
+\begin{figure}[h]
+    \centering
+    \begin{subsubcaption}
+    \begin{subfigure}{0.495\textwidth}
+        \centering
+        \includegraphics[width=\textwidth]{NSE_tot_A00.eps}
+        \caption{Caption}
+        \label{fig2ai}
+    \end{subfigure}
+    \hfill
+    \begin{subfigure}{0.495\textwidth}
+        \centering
+        \includegraphics[width=\textwidth]{nse_tot_A99.eps}
+        \caption{Caption}
+        \label{fig2bi}
+    \end{subfigure}
+        \end{subsubcaption}
+    \\
+    \begin{subsubcaption}
+    \centering
+    \begin{subfigure}{0.495\textwidth}
+        \includegraphics[width=\textwidth]{NSE_tot_B00.eps}
+        \caption{Caption}
+        \label{fig2aii}
+    \end{subfigure}
+    \hfill
+    \begin{subfigure}{0.495\textwidth}
+        \centering
+        \includegraphics[width=\textwidth]{nse_tot_B99.eps}
+        \caption{Caption}
+        \label{fig2bii}
+    \end{subfigure}
+        \end{subsubcaption}
+    \\
+    \begin{subsubcaption}
+    \centering
+    \begin{subfigure}{0.495\textwidth}
+        \includegraphics[width=\textwidth]{NSE_tot_C00.eps}
+        \caption{Caption}
+        \label{fig2aiii}
+    \end{subfigure}
+    \hfill
+    \begin{subfigure}{0.495\textwidth}
+        \centering
+        \includegraphics[width=\textwidth]{nse_tot_C99.eps}
+        \caption{Caption}
+        \label{fig2biii}
+    \end{subfigure}
+    \end{subsubcaption}
+    \\
+        \caption{Subfigures with subsubcaptions}
+    \label{fig2}
+\end{figure}
+
+
+
+
+
+
+\end{document}

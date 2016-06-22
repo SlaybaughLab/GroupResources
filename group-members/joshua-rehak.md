@@ -56,4 +56,4 @@ Serpent 2.
 
 ### Other fun things: ###
 
-I like hiking and dogs, amoung other things.
+I like hiking and dogs, among other things.

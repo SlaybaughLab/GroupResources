@@ -26,11 +26,10 @@ Things I can help with:
 - Linux troubleshooting
 - Setting up MOOSE (I haven't used it for real though)
 
-### Various repo links, etc.:###
+### Various repo links, etc.: ###
 
 - [My github page](https://github.com/jsrehak)
--
-  [Some study guides I've made](https://github.com/jsrehak/studyGuides)
+- [Some study guides I've made](https://github.com/jsrehak/studyGuides)
 - I'm also the webmaster for the neutronics site: link to follow.
 
 ### Systems on which I develop and use: ###

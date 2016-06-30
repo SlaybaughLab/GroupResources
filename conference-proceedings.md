@@ -9,8 +9,9 @@ Conference proceedings the group has copies of (and who has said copies):
 * PHYSOR 2012 (KR)
 * PHYSOR 2014 (KR)
 * [PHYSOR 2016](https://berkeley.box.com/v/physor2016) (RNS, JSR, MM)
-* M&C 2009 (KR, RV)
-* M&C 2013 (RV)
-* M&C 2015 (KR,RV)
+* M&C 2009 __*__ (KR, RV) 
+* M&C 2013 __*__ (RV)
+* M&C 2015 __*__ (KR, RV)
 * SNA+MC 2013 (RNS, MM, KR)
 
+__*__ proceedings uploaded to group's Library

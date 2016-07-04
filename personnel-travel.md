@@ -28,7 +28,13 @@ This is a page documenting the upcoming travel for each member of the Slaybaugh 
 ---
 #####Rachel Slaybaugh#####
 
-[comment] : # (| Sp16	| 2016.03.02 | 	2016.03.04 | Santa Fe        | CoDA | |) 
+.. ..
+
+ <!--- 
+  Old travel; for reference
+  | Sp16 | 2016.03.02 | 2016.03.04 | Santa Fe, NM     | CoDA | | 
+ ---!>
+
 
 | Semester  | Start Date  | End Date | Location | Event | Notes |
 | ----------|:-----------:| :-------:| :-------:| :----:| :----:|

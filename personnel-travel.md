@@ -5,8 +5,8 @@ This is a page documenting the upcoming travel for each member of the Slaybaugh 
 ---
 ## <a name="top">Quick Links ##
 
-[Rachel Slaybaugh](#rachel-slaybaugh), current(ish)
-[Rachel Slaybaugh, past](#rachel-slaybaugh-past)
+* [Rachel Slaybaugh](#rachel-slaybaugh), current(ish)
+* [Rachel Slaybaugh, past](#rachel-slaybaugh-past)
 
 **Postdocs and Visiting Staff**
 
@@ -38,7 +38,7 @@ This is a page documenting the upcoming travel for each member of the Slaybaugh 
 
 [Quick Links](#top)
 
-######<a name="rachel-slaybaugh-past">Slaybaugh, Past #####
+###### <a name="rachel-slaybaugh-past">Slaybaugh, Past #####
 
 | Semester  | Start Date  | End Date | Location | Event | Notes |
 | ----------|:-----------:| :-------:| :-------:| :----:| :----:|

@@ -28,9 +28,10 @@ This is a page documenting the upcoming travel for each member of the Slaybaugh 
 ---
 #####Rachel Slaybaugh#####
 
+[comment] : # (| Sp16	| 2016.03.02 | 	2016.03.04 | Santa Fe        | CoDA | |) 
+
 | Semester  | Start Date  | End Date | Location | Event | Notes |
 | ----------|:-----------:| :-------:| :-------:| :----:| :----:|
-[comment] : # (| Sp16	| 2016.03.02 | 	2016.03.04 | Santa Fe        | CoDA | |) 
 | Sp16	| 2016.03.11 | 	weekend    | Chicago         | workshop	 | | 
 | Sp16	| 2016.03.16 | 	2016.03.17 | Los Alamos      | MPACT	 | | 
 | Sp16	| 2015.03.24 | 	2015.03.24 | SF		     | workshop  | | 

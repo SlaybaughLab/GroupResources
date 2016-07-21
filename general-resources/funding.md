@@ -3,54 +3,43 @@
 Nuclear Engineering University Programs Fellowship, 
 [https://neup.inl.gov/SitePages/Fellowship%20Information.aspx]
 
-
 Computational Sciences Graduate Fellowship,
 [http://www.krellinst.org/csgf/about-doe-csgf]
- 
 
 EECS department list:
 [https://www.eecs.berkeley.edu/Students/fellowship-cal.shtml]
 
-
 Rickover, [http://scuref.org/rfp-01] 
 
-
 Hertz Graduate Fellowship, [http://www.hertzfoundation.org/]
- 
 
 Stewardship Science,
 [http://nnsa.energy.gov/aboutus/ourprograms/defenseprograms/defensescienceuniversityprograms-1]
 
-
 Nuclear Nonproliferation International Safeguards, [http://scuref.org/nnis-01]
-
 
 Nuclear Forensics,
 [http://www.dhs.gov/nuclear-forensics-graduate-fellowship-program-nfgfp];
 [http://scuref.org/nfgf-01] 
 
-
 Advanced Scientific Computing Research (ASCR)
 [http://science.energy.gov/wdts/scgsr/how-to-apply/priority-sc-research-areas/#ASCR]
-   (a) Applied Mathematics
+   * Applied Mathematics
 [http://science.energy.gov/wdts/scgsr/how-to-apply/priority-sc-research-areas/#AppliedMathematics]
-   (b) Computer Science
+   * Computer Science
 [http://science.energy.gov/wdts/scgsr/how-to-apply/priority-sc-research-areas/#ComputerScience]
 
-
 NSF, [http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=6201] 
-
 
 DOE Office of Science Graduate Student Research (SCGSR) Program,
 [http://science.energy.gov/wdts/scgsr/how-to-apply/] 
 
-
 Underrepresented minorities:
 [http://www.gemfellowship.org/students/gem-fellowship-program/] 
 
-
 Grace Hopper Conference Scholarships:
 [https://github.com/freialobo/GHC-Scholarships]
+
 
 Less likely for my students
 ---------------------------------------------------------------------------------------------------

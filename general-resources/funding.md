@@ -32,9 +32,9 @@ Nuclear Forensics,
 
 Advanced Scientific Computing Research (ASCR)
 [http://science.energy.gov/wdts/scgsr/how-to-apply/priority-sc-research-areas/#ASCR]
-(a) Applied Mathematics
+   (a) Applied Mathematics
 [http://science.energy.gov/wdts/scgsr/how-to-apply/priority-sc-research-areas/#AppliedMathematics]
-(b) Computer Science
+   (b) Computer Science
 [http://science.energy.gov/wdts/scgsr/how-to-apply/priority-sc-research-areas/#ComputerScience]
 
 

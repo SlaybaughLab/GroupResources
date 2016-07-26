@@ -80,3 +80,6 @@ Discussions in our group about journal selection will include considering
 degree of open access. It is possible we will pledge something stronger in the
 future...at the least we will make all preprint publications openly available. 
 
+----
+As an addition, condsider signing the [Open Science Manifesto](http://sciencecodemanifesto.org/). I've signed it, with the understanding that this isn't always possible with nuclear engineering software. 
+

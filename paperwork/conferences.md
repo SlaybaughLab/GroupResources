@@ -1,5 +1,9 @@
-### Conference Travel reimbursement
+### Conference Travel booking and reimbursement
 ---------------
+
+Probably the best way is to follow the Cal directions
+[here](http://travel.berkeley.edu/book-trip). What is below is at least some of
+what works beyond that; it might not be the most efficient. 
 
 For most items below, you can either purchase it and be reimbursed, or we can
 follow a procedure such that it can be paid for ahead of time.

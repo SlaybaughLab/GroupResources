@@ -58,14 +58,15 @@ This is a page documenting the upcoming travel for each member of the Slaybaugh 
 
 
 ---
-## Postdocs and Visting Staff ##
+## Postdocs and Visiting Staff ##
 
 #####Richard Vasques#####
 
 | Semester  | Start Date  | End Date | Location | Event | Notes |
 | ----------|:-----------:| :-------:| :-------:| :----:| :----:|
-| SP16	| 2016.04.20 | 	2016.04.24 | 	Dayton, OH | 	Colloquium	 |  | 
-| Su16	| 2016.06.11 |	2016.06.16 | 	NoLa | 	ANS  | dates tentative | 
+| Fa16	| 2016.08.26 | 	2016.04.29 | 	New York, NY |  |  back on the afternoon of 29th| 
+| Fa16	| 2016.09.03 |	2016.09.07 | 	Mammoth Lakes | 	Vacation  | available by email | 
+| Fa16	| 2016.10.15 |	2016.10.23 | 	TBD | 	Vacation  | dates tentative | 
 
 [Quick Links](#top)
 

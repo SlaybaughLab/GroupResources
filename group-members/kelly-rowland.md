@@ -23,8 +23,6 @@ Computing skills:
 ### Software with which I work: ###
 
 * I am working on Monte Carlo neutron transport on advanced computing architectures.
-  * I am implementing this in software developed at LANL.
-    * MC-ATK
 
 * I am familiar and have proficiency with using the following software:
   * MCNP
@@ -32,7 +30,7 @@ Computing skills:
 
 ### Tools I like to use: ###
 
-* Eclipse
+* vim
 
 ### Projects on which I've worked: ###
 

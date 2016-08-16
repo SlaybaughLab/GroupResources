@@ -31,8 +31,8 @@ This is a page documenting the upcoming travel for each member of the Slaybaugh 
 
 | Semester  | Start Date  | End Date | Location | Event | Notes |
 | ----------|:-----------:| :-------:| :-------:| :----:| :----:|
-| Su16	| 2016.07.18 |	2016.07.19 | Las Vegas, NV   | DAF Visit | | 
 | Fa16	| 2016.08.28 |	2016.09.05 | Black Rock City, NV | Vacation | completely out of contact | 
+| Fa16  | 2016.10.03 |  2016.10.06 | Knoxville, TN   | UT Knoxville visit | |
 | Fa16	| 2016.10.09 |	2016.10.12 | Austin, TX      | SXSW Eco | |
 | Fa16	| 2016.11.05 |	2016.11.09 | Las Vegas, NV   | ANS | |
 | Fa16	| 2016.11.23 |	2016.11.26 | Greensboro, NC  | Thanksgiving | |
@@ -43,7 +43,7 @@ This is a page documenting the upcoming travel for each member of the Slaybaugh 
 
 | Semester  | Start Date  | End Date | Location | Event | Notes |
 | ----------|:-----------:| :-------:| :-------:| :----:| :----:|
-| Sp16  | 2016.03.02 | 2016.03.04 | Santa Fe, NM     | CoDA | | 
+| Sp16  | 2016.03.02 |  2016.03.04 | Santa Fe, NM     | CoDA | | 
 | Sp16	| 2016.03.11 | 	weekend    | Chicago         | workshop	 | | 
 | Sp16	| 2016.03.16 | 	2016.03.17 | Los Alamos      | MPACT	 | | 
 | Sp16	| 2015.03.24 | 	2015.03.24 | SF		     | workshop  | | 
@@ -52,6 +52,7 @@ This is a page documenting the upcoming travel for each member of the Slaybaugh 
 | Su16	| 2016.06.07 |	2016.06.09 | Raleigh, NC     | UITI      | | 	
 | Su16	| 2016.06.16 |	2016.06.21 | DC              | NEAC      | also visiting family | 
 | Su16	| 2016.06.29 |	2016.07.04 | Idaho Falls, ID | INL Visit | | 
+| Su16	| 2016.07.18 |	2016.07.19 | Las Vegas, NV   | DAF Visit | | 
 
 
 [Quick Links](#top)

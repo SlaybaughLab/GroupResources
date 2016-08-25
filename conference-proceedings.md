@@ -8,8 +8,12 @@ Conference proceedings the group has copies of (and who has said copies):
 * XXV CILAMCE 2004 (RV)
 * PHYSOR 2012 (KR)
 * PHYSOR 2014 (KR)
-* M&C 2009 (KR, RV)
-* M&C 2013 (RV)
-* M&C 2015 (KR,RV)
-* SNA+MC 2013 (RS, MM, KR)
+* [PHYSOR 2016](https://berkeley.box.com/v/physor2016) __*__ (RNS, JSR, MM)
+* M&C 2009 __*__ (KR, RV) 
+* M&C 2013 __*__ (RV)
+* M&C 2015 __*__ (KR, RV)
+* SNA+MC 2013 (RNS, MM, KR)
+* ANS Annual 2016, Transactions 114 __*__ (RV)
+* ATH 2016 __*__ (RV)
 
+__*__ proceedings uploaded to group's Library

@@ -30,5 +30,9 @@ group is committed to following these principles to the best of our ability.
 papers, theses, posters, and whatever else. It's a menagerie of template types
 and files!  
 
+[I,Librarian](./ilibrarian/) contains information about the group's shared reference
+manager/repository. Currently it has the presentation used to guide the training
+given on 08/24/16; full guidelines and a tutorial will follow soon.  
+
 ---
 

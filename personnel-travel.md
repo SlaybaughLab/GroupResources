@@ -65,9 +65,10 @@ This is a page documenting the upcoming travel for each member of the Slaybaugh 
 
 | Semester  | Start Date  | End Date | Location | Event | Notes |
 | ----------|:-----------:| :-------:| :-------:| :----:| :----:|
-| Fa16	| 2016.08.26 | 	2016.04.29 | 	New York, NY |  |  back on the afternoon of 29th| 
-| Fa16	| 2016.09.03 |	2016.09.07 | 	Mammoth Lakes | 	Vacation  | available by email | 
-| Fa16	| 2016.10.15 |	2016.10.23 | 	TBD | 	Vacation  | dates tentative | 
+| Sp17	| 2017.01.18 | 	2017.01.20 | 	Corvallis, OR |  | available by email | 
+| Sp17	| 2017.01.23 | 	2017.01.26 | 	Madison, WI |  | available by email | 
+| Sp17	| 2017.01.31 | 	2017.02.03 | 	Ann Arbor, MI |  | dates tentative | 
+| Sp17	| 2017.04.16 | 	2017.04.20 | 	South Korea | MC 2017 | dates tentative | 
 
 [Quick Links](#top)
 

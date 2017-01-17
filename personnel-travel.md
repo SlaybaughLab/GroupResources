@@ -31,11 +31,13 @@ This is a page documenting the upcoming travel for each member of the Slaybaugh 
 
 | Semester  | Start Date  | End Date | Location | Event | Notes |
 | ----------|:-----------:| :-------:| :-------:| :----:| :----:|
-| Fa16	| 2016.08.28 |	2016.09.05 | Black Rock City, NV | Vacation | completely out of contact | 
-| Fa16  | 2016.10.03 |  2016.10.06 | Knoxville, TN   | UT Knoxville visit | |
-| Fa16	| 2016.10.09 |	2016.10.12 | Austin, TX      | SXSW Eco | |
-| Fa16	| 2016.11.05 |	2016.11.09 | Las Vegas, NV   | ANS | |
-| Fa16	| 2016.11.23 |	2016.11.26 | Greensboro, NC  | Thanksgiving | |
+| Sp17	| 2017.02.20 |	2017.02.21 | Washington, DC | Advanced Innovation Summit | | 
+| Sp17  | 2017.02.26 |  2017.03.02 | Washington, DC | ARPA-E Summit | |
+| Sp17	| 2017.03.06 |	2017.03.08 | Madison, WI    | UW-Madison | |
+| Sp17	| 2017.04.06 |	2017.04.08 | Pittsburgh, PA | ANS Student Conference | |
+| Sp17	| 2017.04.15 |	2017.04.20 | Jeju-do, S. Korea | MC 2017 | |
+| Sp17	| 2017.04.26 |	2017.04.28 | Washington, DC | NRC Training | |
+| Sp17	| 2017.04.30 |	2017.05.02 | Atlanta, GA    | Georgia Tech | |
 
 [Quick Links](#top)
 
@@ -43,16 +45,15 @@ This is a page documenting the upcoming travel for each member of the Slaybaugh 
 
 | Semester  | Start Date  | End Date | Location | Event | Notes |
 | ----------|:-----------:| :-------:| :-------:| :----:| :----:|
-| Sp16  | 2016.03.02 |  2016.03.04 | Santa Fe, NM     | CoDA | | 
-| Sp16	| 2016.03.11 | 	weekend    | Chicago         | workshop	 | | 
-| Sp16	| 2016.03.16 | 	2016.03.17 | Los Alamos      | MPACT	 | | 
-| Sp16	| 2015.03.24 | 	2015.03.24 | SF		     | workshop  | | 
-| Sp16	| 2015.04.09 |	2015.04.15 | Tokyo           | JAIF      | | 
-| Sp16	| 2016.05.01 |	2016.05.05 | Sun Valley, ID  | PHYSOR    | | 
 | Su16	| 2016.06.07 |	2016.06.09 | Raleigh, NC     | UITI      | | 	
 | Su16	| 2016.06.16 |	2016.06.21 | DC              | NEAC      | also visiting family | 
 | Su16	| 2016.06.29 |	2016.07.04 | Idaho Falls, ID | INL Visit | | 
 | Su16	| 2016.07.18 |	2016.07.19 | Las Vegas, NV   | DAF Visit | | 
+| Fa16	| 2016.08.28 |	2016.09.05 | Black Rock City, NV | Vacation | completely out of contact | 
+| Fa16  | 2016.10.03 |  2016.10.06 | Knoxville, TN   | UT Knoxville visit | |
+| Fa16	| 2016.10.09 |	2016.10.12 | Austin, TX      | SXSW Eco | |
+| Fa16	| 2016.11.05 |	2016.11.09 | Las Vegas, NV   | ANS | |
+| Fa16	| 2016.11.23 |	2016.11.26 | Greensboro, NC  | Thanksgiving | |
 
 
 [Quick Links](#top)

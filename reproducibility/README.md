@@ -46,6 +46,9 @@ document:
 
 ---
 Other resources:
+* The free book [Practice Reproducible Research](https://www.practicereproducibleresearch.org/); two nuclear oriented examples from this book:
+  - [Reproducible Computational Science on High Performance Computers](https://www.practicereproducibleresearch.org/case-studies/slaybaugh.html)
+  - [Developing an Open, Modular Simulation Framework for Nuclear Fuel Cycle Analysis](https://www.practicereproducibleresearch.org/case-studies/khuff.html)
 * [This short article](http://www.bitss.org/2015/12/31/science-is-show-me-not-trust-me/) 
 by [Philip Stark] (http://www.stat.berkeley.edu/~stark/) provides a good
 checklist for guiding the reproducibility of your work.

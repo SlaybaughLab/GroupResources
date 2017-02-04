@@ -26,6 +26,21 @@ All editors below are open-source and multi-platform.
 * If you prefer a GUI-based approach to LaTeX, then [TeXworks](https://www.tug.org/texworks/ "texworks") is your best bet. It features a built-in PDF viewer like TeXmaker and TeXstudio, but this tool also possesses an auto-synchronisation feature to it.
 * If you don't want to install anything, then try [ShareLaTeX](https://www.sharelatex.com/ "sharelatex"). Dropbox and GitHub syncing supported, 400+ ready-to-use templates, no installations needed. It also allows direct collaboration for a fee.
 
+##Editing for Papers
+
+It is highly recommended to write papers in LaTeX and host it on GitHub. We can
+then read and edit one anothers papers and submit changes as pull requests.
+GitHub facilitates looking at differences, but another tool to help with that is
+[latexdiff](https://www.ctan.org/pkg/latexdiff?lang=en). It will take two files
+and generate a new one that shows the differences, track-changes style. Some
+journals request this kind of markup for responding to reviewer changes--this is
+a quick way to do it.
+
+**Pro Tip:** write your papers with either fixed line length or with each
+sentence as its own line. This makes it way easier to see the changes (if you
+only put a new paragraph as a new line it's hard to tell what is different).
+
+
 ##Presentations, Slides, Posters
 
 * For **slides and presentations** you should _really_ consider the Beamer package (available [here](https://www.ctan.org/pkg/beamer "beamer") from CTAN). A full copy of the beamer userguide is [here (in pdf)](http://texdoc.net/texmf-dist/doc/latex/beamer/doc/beameruserguide.pdf "beamer userguide").

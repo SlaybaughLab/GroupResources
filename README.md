@@ -29,3 +29,12 @@ given on 08/24/16; full guidelines and a tutorial will follow soon.
 
 ---
 
+## Website
+
+The Neutronics group website is located
+[here](http://neutronics.nuc.berkeley.edu). Please
+[submit](http://neutronics.nuc.berkeley.edu/submit/) content to see it
+added or your info if you aren't up there yet; ask a group member for
+the password to access that location.
+
+---

@@ -2,6 +2,10 @@
 
 This is a list of useful templates.
 
+## Research Meetings
+The [meetings template](./Meeting-Updates-Template.md) is a starting template
+for you to put information for recurring research meetings with Rachel.
+
 ## Journal Papers
 
 * For **Elsevier** papers you should use [this template](journals/Elsevier) "elsevier"). Useful for: 

@@ -13,6 +13,11 @@ idea to have a research repository, and this be one item in that repository. You
 can even link to the repo from the GroupResources SlaybaughLab repo if you want
 to.
 
+Some of the below setup was inspired by [bullet
+journaling](https://www.youtube.com/watch?v=fm15cmYU0IM), which you don't need
+to do--but might be interested in. Also, that was an example of an external link
+:).
+
 ### <a name="top">Updates
 
 * [Update: 2016/07/27](#update-20160727)
@@ -116,7 +121,8 @@ General updates:
 * Friday I successfully built Exnihilo and advantg
   * One of the advantg unittests failed, but I believe it is due to my own changes
 * Monday I discovered that advantg couldn't run the example problems due to lack of lava support
-  * Lava build / debug process is documented in my [Rasputin Lab Notebook](./Lab-Notebook-Rasputin.md)
+  * Lava build / debug process is documented in my [Rasputin Lab
+  * Notebook](https://github.com/munkm/Madicken-Research/blob/master/Lab-Notebook-Rasputin.md)
   * Spent some time getting lava support in Exnihilo (now not necessary)
   * Talked to Tara this morning and determined lava is NOT required for Exnihilo, but does
   need to be built for advantg. Remedied problem by making variant .cmake file for advantg 

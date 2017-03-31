@@ -1,15 +1,15 @@
-#Abacus
+# Abacus
 
 Abacus is the name of our group's cluster.
 
 Cluster address: `abacus.berkeley.edu`
 
-##Getting Started 
+## Getting Started 
 
 To first get started, you need an account on the computer. 
 Email Professor Slaybaugh, Josh, or Kelly (the administators) for an account.
 
-##Software
+## Software
 If you'd like to install a piece of software on the cluster, let one of the
 administrators know. 
 They will create a group for that piece of software and add the appropriate
@@ -22,7 +22,7 @@ Note: all users on our sever will be put in the `comp-n` group.
 If you'd like to make something available to everyone, please set the group to
 `comp-n`.
 
-##Permission Management
+## Permission Management
 ### File Permissions
 
 Every file and folder has an _owner_ and a _group_

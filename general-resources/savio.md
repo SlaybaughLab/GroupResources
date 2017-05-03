@@ -1,4 +1,4 @@
-#Savio
+# Savio
 
 Savio is the name of UC Berkeley's institutional/condo cluster.
 
@@ -6,7 +6,7 @@ Cluster address: `hpc.brc.berkeley.edu`
 
 Webpage here: http://research-it.berkeley.edu/services/high-performance-computing
 
-##Getting Started 
+## Getting Started 
 
 To first get started, you need an account on the Savio computer. This can be done by asking one of the
 neutronics faculty members about it, and it may take a week or so for the account to be activated.
@@ -22,7 +22,7 @@ the need arise.
 Once you've installed Pledge, everything else regarding Savio is fairly similar to using any other 
 computing cluster.
 
-##Transferring Data
+## Transferring Data
 
 Savio has a dedicated data transfer node. When transferring files, log in to `dtn.brc.berkeley.edu` rather
 than the usual login nodes. 
@@ -32,7 +32,7 @@ off of Savio), so don't panic if it doesn't work when you try to do something li
 you would on a typical login node. Once you've moved your data as needed, log off of the data transfer 
 node and log into a usual login node to carry on with your work.
 
-##SLURM
+## SLURM
 
 On Savio, jobs are submitted through and handled with SLURM (Simple Linux Utility Resource Manager).
 
@@ -40,7 +40,7 @@ Example SLURM scripts for Savio: http://research-it.berkeley.edu/services/high-p
 
 General SLURM documentation: http://slurm.schedmd.com/documentation.html
 
-##Getting Help
+## Getting Help
 
 Using a computing cluster can be difficult. Fortunately, the Savio team can be reached at 
 brc-hpc-help@lists.berkeley.edu. When sending this email (and thus creating a "trouble ticket"), please

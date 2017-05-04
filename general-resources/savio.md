@@ -8,19 +8,10 @@ Webpage here: http://research-it.berkeley.edu/services/high-performance-computin
 
 ## Getting Started 
 
-To first get started, you need an account on the Savio computer. This can be done by asking one of the
-neutronics faculty members about it, and it may take a week or so for the account to be activated.
+To first get started, you need an account on the Savio computer. This can be 
+done by filling out the form [here](https://docs.google.com/a/berkeley.edu/forms/d/e/1FAIpQLSemSeqZFI5jCvu4KxdQ_7MpQmZaAy57JNjOoGrSay6XbIU9qg/viewform). Request access to the Savio cluster and to be added to the "fc_neutronics" project.
 
-Once your account is in place, you will need to install the Pledge software, used for logging into Savio.
-
-Instructions for installing Pledge can be found here: http://research-it.berkeley.edu/services/high-performance-computing/logging-savio
-
-**Note:** you may want to install Pledge on multiple devices such as your computer(s) as well as your
-smartphone; this will make it easier to install and verify Pledge on a new machine in the future should
-the need arise.
-
-Once you've installed Pledge, everything else regarding Savio is fairly similar to using any other 
-computing cluster.
+Once your account is in place, follow the instructions [here](http://research-it.berkeley.edu/services/high-performance-computing/logging-brc-clusters) to log into the cluster.
 
 ## Transferring Data
 

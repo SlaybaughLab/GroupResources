@@ -6,16 +6,16 @@ category.
 ## Applied Math (Math)
 
 ### Definitely Useful
-++ 221: Advanced Matrix Computations
++ 221: Advanced Matrix Computations
  Direct solution of linear systems, including large sparse systems: error
 bounds, iteration methods, least square approximation, eigenvalues and
 eigenvectors of matrices, nonlinear equations, and minimization of functions.
 
-++ 228A: Numerical Solution of Differential Equations
++ 228A: Numerical Solution of Differential Equations
 Linear multistep methods; Runga-Kutta methods; Stability theory; Stiff
 equations; Boundary value problem; Eigenvalue problem; Discretization 
 
-++ 228B: Numerical Solution of Differential Equations
++ 228B: Numerical Solution of Differential Equations
 Theory and practical methods for numerical solution of partial differential
 equations. Finite difference methods for parabolic and hyperbolic problems,
 finite volume methods for hyperbolic conservation laws, finite element methods
@@ -93,12 +93,12 @@ Advanced topics chosen by the instructor. The content of this course changes, as
 in the case of seminars.
 
 ## Actual Computer Science (CS)
-- 152.  Computer Architecture and Engineering 
+- 152:  Computer Architecture and Engineering 
 Instruction set architecture, microcoding, pipelining (simple and complex).
 Memory hierarchies and virtual memory. Processor parallelism: VLIW, vectors,
 multithreading. Multiprocessors. (F,SP) 
 
-- 169.  Software Engineering
+- 169:  Software Engineering
 Ideas and techniques for designing, developing, and modifying large software
 systems. Function-oriented and object-oriented modular design techniques,
 designing for re-use and maintainability. Specification and documentation.
@@ -106,13 +106,13 @@ Verification and validation. Cost and quality metrics and estimation. Project
 team organization and management. Students will work in teams on a substantial
 programming project. (F,SP)
 
-- 252.  Graduate Computer Architecture   
+- 252:  Graduate Computer Architecture   
 Graduate survey of contemporary computer organizations covering: early systems,
 CPU design, instruction sets, control, processors, busses, ALU, memory, I/O
 interfaces, connection networks, virtual memory, pipelined computers,
 multiprocessors, and case studies. Term paper or project is required. (F,SP)
 
-- 262A.  Advanced Topics in Computer Systems   
+- 262A:  Advanced Topics in Computer Systems   
 Graduate survey of systems for managing computation and information, covering a
 breadth of topics: early systems; volatile memory management, including virtual
 memory and buffer management; persistent memory systems, including both file
@@ -123,7 +123,7 @@ RPC, TCP, and active messages; security infrastructure; extensible systems and
 APIs; performance analysis and engineering of large software systems. Homework
 assignments, exam, and term paper or project required. (F,SP)
 
-- 267.  Applications of Parallel Computers  
+- 267:  Applications of Parallel Computers  
 Models for parallel programming. Fundamental algorithms for linear algebra,
 sorting, FFT, etc. Survey of parallel machines and machine structures. Exiting
 parallel programming languages, vectorizing compilers, environments, libraries

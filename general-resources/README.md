@@ -14,6 +14,8 @@ practices.
 
 [Savio](./savio.md) is a place with information on getting started on our HPC system. 
 
+[Courses](./courses.md) a list of courses that you may want to take.
+
 [Abacus](./abacus.md) contains information about our group's sever.
 
 Codes and Software is a place with links for documentation on the software we

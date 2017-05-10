@@ -22,6 +22,13 @@ finite volume methods for hyperbolic conservation laws, finite element methods
 for elliptic equations, discontinuous Galerkin methods for first and second
 order systems of conservation laws.
 
+<div class="alert alert-success">
+**Note:** When Professor Per Persson teaches 228A/B in Fall/Spring the structure is
+slightly different. He teaches numerical methods for both ODE/PDE in
+228A, including FD methods for parabolic and hyperbolic. 228B is
+entirely FEM, FVM, and DG.
+</div>
+
 ### Probably Useful
 + 128A: Numerical Analysis
 Programming for numerical calculations, round-off error, approximation and

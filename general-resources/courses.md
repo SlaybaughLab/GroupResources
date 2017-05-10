@@ -25,7 +25,7 @@ order systems of conservation laws.
 **Note:** When Professor Per Persson teaches 228A/B in Fall/Spring the structure is
 slightly different. He teaches numerical methods for both ODE/PDE in
 228A, including FD methods for parabolic and hyperbolic. 228B is
-entirely FEM, FVM, and DG.{bg-info}
+entirely FEM, FVM, and DG.
 
 
 ### Probably Useful

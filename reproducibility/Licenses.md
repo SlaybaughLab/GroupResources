@@ -7,6 +7,9 @@ All work in our group should include a `LICENSE` file in the base directory of
 the repository that clearly states under which license the content is being
 made available.
 
+For releasing software developed here at Berkeley, a form is needed and there are
+some considerations about rights and owndership. More information [here](http://ipira.berkeley.edu/FAQs)
+
 Note that code and writing without a license is implicitly under copyright
 protection and is _not_ freely available.  
 

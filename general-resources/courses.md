@@ -52,7 +52,7 @@ variations methods, Hamilton-Jacobi equations and conservation laws
 
 ### Possibly Useful
 - 104: Introduction to Analysis
-The real number system. Sequences, limits, and continuous functions in R and R.
+The real number system. Sequences, limits, and continuous functions in R.
 The concept of a metric space. Uniform convergence, interchange of limit
 operations. Infinite series. Mean value theorem and applications. The Riemann
 integral. 
@@ -91,6 +91,21 @@ fundamental problems of mathematical physics. It is intended for graduate
 students in applied mathematics, physics, engineering or other mathematical
 sciences. The overall purpose of the course will be to develop non-numerical
 tools for understanding and approximating solutions of differential equations.
+
++ E 231: Mathematical Methods in Engineering
+This course offers an integrated treatment of three topics essential to modern
+engineering: linear algebra, random processes, and optimization. These topics 
+will be covered more rapidly than in separate undergraduate courses covering
+the same material, and will draw on engineering examples for motivation.
+The stress will be on proofs and computational aspects will also be highlighted. 
+It is intended for engineering students whose research focus has a significant 
+mathematical component, but who have not previously had a thorough exposure 
+to these topics. (F)
+
+**Note:** Good class for graduate student who hasn't had exposure to linear
+algebra, statistics, and optimization in the past. This is probably not very 
+useful for people who have already taken lots of linear algebra, statistics, 
+or optimization courses.
 
 - 273: Advanced Topics in Nuclear Methods
 
@@ -135,9 +150,18 @@ sorting, FFT, etc. Survey of parallel machines and machine structures. Exiting
 parallel programming languages, vectorizing compilers, environments, libraries
 and toolboxes. Data partitioning techniques. Techniques for synchronization and
 load balancing. Detailed study and algorithm/program development of medium sized
-applications. Also listed as Engineering C233
+applications. Also listed as Engineering C233. (SP)
 
-- ME 280A: finite element methods
+- ME 280A: Introduction to the Finite Element Method
+Weighted-residual and variational methods of approximation. Canonical 
+construction of finite element spaces. Formulation of element and global state 
+equations. Applications to linear partial differential equations of interest 
+in engineering and applied science.
+
+**Note:** Do not take both the undergraduate (ME 180) and graduate versions of
+this course, since there is a fair amount of overlap, with the graduate course
+focusing more on understanding the method and the undergraduate course more on
+using FEM software (COMSOL) for a larger variety of applications.
 
 
 ## Statistics for Monte Carlo (Math)

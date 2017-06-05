@@ -21,6 +21,9 @@ practices.
 Codes and Software is a place with links for documentation on the software we
 use and develop. 
 
+[Software Carpentry](./software-carpentry.md) contains links to modules to teach
+yourself or brush up on basic software skills.
+
 Here are some [technical resources](https://docs.google.com/document/d/1A58l0Vp_A00_6rUjTZlvIjaIeejF2Xi1X-RKNJi7QcE/edit?usp=sharing) for scientific computing and introductory transport.
 
 A list of Fellowships that might be relevant is

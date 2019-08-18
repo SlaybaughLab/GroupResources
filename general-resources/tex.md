@@ -24,7 +24,7 @@ All editors below are open-source and multi-platform.
 * The most popular and user-friendly TeX editor is [TeXmaker](http://www.xm1math.net/texmaker/ "texmaker").
 * [TeXstudio](http://texstudio.sourceforge.net/ "texstudio") is another good LaTeX editor. It is pretty much an extension of TeXmaker.
 * If you prefer a GUI-based approach to LaTeX, then [TeXworks](https://www.tug.org/texworks/ "texworks") is your best bet. It features a built-in PDF viewer like TeXmaker and TeXstudio, but this tool also possesses an auto-synchronisation feature to it.
-* If you don't want to install anything, then try [ShareLaTeX](https://www.sharelatex.com/ "sharelatex"). Dropbox and GitHub syncing supported, 400+ ready-to-use templates, no installations needed. It also allows direct collaboration for a fee.
+* If you don't want to install anything, then try [Overleaf](https://www.overleaf.com/ "Overleaf") (including what was formerly [ShareLaTeX](https://www.sharelatex.com/ "ShareLatex")). Dropbox and GitHub syncing supported, 400+ ready-to-use templates, no installations needed. It also allows direct collaboration for a fee.
 
 ##Editing for Papers
 

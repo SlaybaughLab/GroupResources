@@ -8,18 +8,13 @@ HPC system at UC Berkeley, and best practices in software development.
 [The TeX page](./tex.md) is a good place to start if you're getting started
 with LaTeX.
 
-Software Carpentry (we will add info later) is a place with links and tips if
-you're new to software development, or if you'd like a refresher on best
-practices.
-
-[Savio](./savio.md) is a place with information on getting started on our HPC system. 
+[Savio](./savio.md) has information on getting started on our HPC system. 
 
 [Courses](./courses.md) a list of courses that you may want to take.
 
 [Abacus](./abacus.md) contains information about our group's sever.
 
-Codes and Software is a place with links for documentation on the software we
-use and develop. 
+[Screeners/Minors](./screeners-minors.md) has advice on screening exams and options for minors. _(in progress)_
 
 [Software Carpentry](./software-carpentry.md) contains links to modules to teach
 yourself or brush up on basic software skills.

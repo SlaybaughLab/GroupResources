@@ -8,7 +8,7 @@ HPC system at UC Berkeley, and best practices in software development.
 
 [Paperwork](./paperwork/) is a folder with pertinent paperwork that you will
 need to complete to fulfill various requirements for your academic pathway,
-whether that be your Master's, PhD, Postdoc, or Staff Position. 
+whether that be your Master's, PhD, Postdoc, or Staff Position. This includes information about conference travel and reimbursement.
 
 [Reproducibility](./reproducibility/) contains information about best practices
 to conduct computational science responsibly and reproducibly. This research

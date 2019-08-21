@@ -7,7 +7,7 @@ Cluster address: `abacus.berkeley.edu`
 ## Getting Started 
 
 To first get started, you need an account on the computer. 
-Email Professor Slaybaugh, Josh, or Kelly (the administators) for an account.
+Email Professor Slaybaugh, Josh, or Mitch (the administators) for an account.
 
 ## Software
 If you'd like to install a piece of software on the cluster, let one of the
@@ -73,7 +73,7 @@ file, and _can_ be used by all users.
 
 The `chmod` command modifies access permissions on files that you
 own. Different permissions can be set for the owner, group, and
-others. I recommend using the man page for help: [man page](http://ss64.com/bash/chmod.html)
+others. I recommend using the man page for help (found by typing `man chmod` in the terminal, or also [online](http://ss64.com/bash/chmod.html)).
 
 **need:** 
 * directions for software installation and management (where to install and
@@ -81,6 +81,7 @@ others. I recommend using the man page for help: [man page](http://ss64.com/bash
 
 ## Technical Specifications
 This is a Thnkmate VSX R5 760V3, it has
+
 * 2 x Ten­Core Intel Xeon Processor E5­2687W v3 3.10GHz 25MB Cache (160W)
 * 2 x Thinkmate Quiet Cooling Performance Heatsink for Intel LGA2011
 * Intel C612 Chipset ­ Dual Intel Gigabit Ethernet ­ 10x SATA

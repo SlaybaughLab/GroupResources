@@ -1,29 +1,17 @@
-#### Reimbursements
----------------
+## Reimbursements
 
-To be reimbursed for **supplies**:
+To be reimbursed for **supplies/travel**:
 
-1. go to [erso intranet](https://www.erso.berkeley.edu/ersoapp)
+1. Go to [ERSO intranet](https://www.erso.berkeley.edu/ersoapp)
 
-2. under Intranet Services click "Payment"
+2. Under Business Services click "Payment"/"Travel"
 
-3. under Select PI/Center or Dept. choose me
+3. Under "PI/Center/Deptartment", choose Professor Slaybaugh
 
-4. under Payee list yourself
+4. Give your name and student ID as the "Payee"
 
-5. fill in the business purpose 
+5. Fill in the applicable business purpose.
 
-6. say what the supplies are and how much they cost on this page
+6. For **supplies**, say what the supplies are and how much they cost on this page
 
-7. attach receipts associated with any expenses
-
- 
-
-For **travel**, the process is very similar. Go through the steps above with these differences
-
-2. under Intranet Services click "Travel"
-
-6. skip
-
-7. in this step you need to include this form from the travel page (domestic, international, and electronically fillable all
-available [here](http://sharedservices.berkeley.edu/finance/forms/)
+7. Attach receipts associated with any expenses. For **travel**, include the appropriate travel reimbursement form (domestic and international available [here](http://www.erso.berkeley.edu/erso/content/travel-resources#Forms), under "Forms").

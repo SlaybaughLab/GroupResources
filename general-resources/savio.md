@@ -4,12 +4,13 @@ Savio is the name of UC Berkeley's institutional/condo cluster.
 
 Cluster address: `hpc.brc.berkeley.edu`
 
-Webpage here: http://research-it.berkeley.edu/services/high-performance-computing
+**Webpage:** <http://research-it.berkeley.edu/services/high-performance-computing>
 
 ## Getting Started 
 
-To first get started, you need an account on the Savio computer. This can be 
-done by filling out the form [here](https://docs.google.com/a/berkeley.edu/forms/d/e/1FAIpQLSemSeqZFI5jCvu4KxdQ_7MpQmZaAy57JNjOoGrSay6XbIU9qg/viewform). Request access to the Savio cluster and to be added to the "fc_neutronics" project.
+To first get started, you need an account on the Savio cluster.
+For projects using the faculty computing allowance, you can get an account by filling out the form [here](https://docs.google.com/forms/d/e/1FAIpQLScAyqNioiO7Mave-sKjQc9we8-V_CJK9RHfuM-Ca01_okydmg/viewform). Request access to the Savio cluster and to be added to the "fc_neutronics" project.
+[Full instructions](http://research-it.berkeley.edu/services/high-performance-computing/getting-account) can be found on the BRC website.
 
 Once your account is in place, follow the instructions [here](http://research-it.berkeley.edu/services/high-performance-computing/logging-brc-clusters) to log into the cluster.
 
@@ -27,14 +28,16 @@ node and log into a usual login node to carry on with your work.
 
 On Savio, jobs are submitted through and handled with SLURM (Simple Linux Utility Resource Manager).
 
-Example SLURM scripts for Savio: http://research-it.berkeley.edu/services/high-performance-computing/running-your-jobs
+Example SLURM scripts for Savio:  
+<http://research-it.berkeley.edu/services/high-performance-computing/running-your-jobs>
 
-General SLURM documentation: http://slurm.schedmd.com/documentation.html
+General SLURM documentation:  
+<http://slurm.schedmd.com/documentation.html>
 
 ## Getting Help
 
 Using a computing cluster can be difficult. Fortunately, the Savio team can be reached at 
-brc-hpc-help@lists.berkeley.edu. When sending this email (and thus creating a "trouble ticket"), please
+<brc-hpc-help@lists.berkeley.edu>. When sending this email (and thus creating a "trouble ticket"), please
 include as much relevant information as you can (in order to help the HPC people help you!). This 
 information includes but is not limited to:
 
